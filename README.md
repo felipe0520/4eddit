@@ -25,10 +25,13 @@ No terminal, clone o projeto:
 
 ```git clone: https://github.com/felipe0520/4eddit ```
 
-Entre na pasta do projeto  : ```cd 4eddit ```
+Entre na pasta do projeto  :
+```cd 4eddit ```
 
-Instale as dependências : ```npm install ```
+Instale as dependências : 
+```npm install ```
 
-Execute a aplicação ```npm start ```
+Execute a aplicação:
+```npm start ```
 
 
