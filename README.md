@@ -86,5 +86,6 @@ Execute a aplicação:
 ## Coladorador
 
 <img src="https://avatars1.githubusercontent.com/u/24879021?s=400&u=96e0d2417f7231cea3d1f70eaeb068ce26295a1c&v=4" width=115 > <br> <sub> 
-Mackson Welton  </sub>]https://github.com/MacksonWelton) |
+Mackson Welton</sub>https://github.com/MacksonWelton|
 | :---: |  
+
