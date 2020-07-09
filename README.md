@@ -18,6 +18,7 @@ Implementação de uma rede social funcional baseada no https://www.reddit.com/
 4. Axios
 5. Redux-Thunk
 6. Material-ui
+7. Responsividade
 
 ### Projeto 
 Essa semana, vocês irão implementar uma rede social! Já fizemos vários protótipos de redes sociais, mas nenhuma delas realmente funcional. A ideia agora é fazer uma rede real, com cadastro, login, posts, likes e comentários. Para isso, iremos nos basear no **[reddit.com](https://reddit.com).**
