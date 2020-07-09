@@ -85,5 +85,8 @@ Execute a aplicação:
 
 ## Coladorador
 
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
+| :---: |  
+
 [<img src="https://avatars1.githubusercontent.com/u/24879021?s=400&u=96e0d2417f7231cea3d1f70eaeb068ce26295a1c&v=4 width=115 > <br> <sub> Mackson Welton </sub>](https://github.com/MacksonWelton) |
 | :---: | 
