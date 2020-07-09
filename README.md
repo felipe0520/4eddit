@@ -74,9 +74,12 @@ Instale as dependências :
 Execute a aplicação:
 ```npm start ```
 
-## Gif da aplicação funcionando abaixo:
+## Gif da aplicação em ambiente desktop:
 
 ![](gif/exemple.gif)
+
+## Gif da aplicação em ambiente mobile
+![](gif/exempleMobile.gif)
 
 
 ## Coladorador
