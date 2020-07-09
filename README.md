@@ -38,3 +38,9 @@ Execute a aplicação:
 ## Gif da aplicação funcionando abaixo:
 
 ![](gif/exemple.gif)
+
+
+## Desenvolvedores 
+
+https://github.com/EloisaFagundes
+
