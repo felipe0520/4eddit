@@ -26,7 +26,7 @@ A rede social terá 4 páginas:
 
 ### Página de login
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c10d6996-4e20-45e8-a4aa-c1d7e4710fea/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c10d6996-4e20-45e8-a4aa-c1d7e4710fea/Untitled.png)
+![https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc10d6996-4e20-45e8-a4aa-c1d7e4710fea%2FUntitled.png?table=block&id=9df64902-45f4-4dfb-a48d-3cba6807226c&width=2730&cache=v2](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc10d6996-4e20-45e8-a4aa-c1d7e4710fea%2FUntitled.png?table=block&id=9df64902-45f4-4dfb-a48d-3cba6807226c&width=2730&cache=v2)
 
 A página de login possui dois campos de texto: email e senha. O comportamento será o mesmo da página de login feita semana passada. Ao fazer o login, o usuário deverá ser redirecionado para a página de feed.
 
