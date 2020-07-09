@@ -3,8 +3,9 @@
 ## Descrição
 Implementação de uma rede social funcional baseada no https://www.reddit.com/
 
-## Link : 
-http://reddit-labenu.surge.sh/
+## Links : 
+[deploy](http://reddit-labenu.surge.sh/)
+[documentação api ](https://documenter.getpostman.com/view/674905/SzYXXKEE?version=latest#08adf102-4d87-4f70-9dc3-b3c321b29739)
 
 
 > Status do Projeto: Concluido :heavy_check_mark:
@@ -42,5 +43,4 @@ Execute a aplicação:
 
 ## Desenvolvedores 
 
-https://github.com/EloisaFagundes
 
