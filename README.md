@@ -4,7 +4,7 @@
 Implementação de uma rede social funcional baseada no https://www.reddit.com/
 
 ## Link : 
-http://reddit-labenu.surge.sh/userPage
+http://reddit-labenu.surge.sh/
 
 
 > Status do Projeto: Concluido :heavy_check_mark:
